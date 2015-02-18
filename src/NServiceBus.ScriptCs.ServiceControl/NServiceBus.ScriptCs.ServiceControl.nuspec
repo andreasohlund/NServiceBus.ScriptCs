@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>NServiceBus.ScriptCs.ServiceControl</id>
+    <!-- The version will be replaced by the build -->
+    <version>0.0.0</version>
+    <title>NServiceBus.ScriptCs.ServiceControl</title>
+    <authors>NServiceBus.ScriptCs contributors</authors>
+    <description>A scriptcs script pack for NServiceBus service control.</description>
+    <projectUrl>https://github.com/bau-build/bau</projectUrl>
+    <licenseUrl>https://github.com/andreasohlund/NServiceBus.ScriptCs/blob/master/LICENSE</licenseUrl>
+    <copyright>Copyright (c) NServiceBus.ScriptCs contributors.</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>nservucebus script pack servicecontrol particular software</tags>
+  </metadata>
+</package>
